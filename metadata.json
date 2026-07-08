@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: Valandovo Sports Summer 2026",
+  "description": "Official landing page and registration portal for the Valandovo Sports Summer 2026 festival (Валандовско Спортско Лето 2026).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
